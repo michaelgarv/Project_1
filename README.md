@@ -28,7 +28,23 @@ Plot data
 Create presentaion 
 
 
+Conclusion 
 
+How does location affect an MLB team’s batting average? (Average Temperature, Wind Speed, and Altitude)
+
+Based on the data pulled, Wind Speed shows the highest effect on MLB team’s batting averages when it comes to precipitation. However it still has a weak to non-existent correlation. 
+
+
+Does the higher the team’s payroll equate to a higher team batting average?
+
+Teams with a higher payroll do tend to have a higher batting average. 
+
+Does player age play a role in a teams batting average?
+
+Teams with an older player age average had a higher batting average.
+
+
+Out of all the data collected, The most relevant data pulled was the MLB team’s payroll information with a correlation coefficient of 0.33. 
 
 
 Datasets to Be Used: 
